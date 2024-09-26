@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isc_2\\OneDrive\\Escritorio\\back\\dbTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9A29BA-0CD5-490F-9B6F-9E15009DC9E8}|dbTest\\dbTest.csproj|c:\\users\\isc_2\\onedrive\\escritorio\\back\\dbtest\\dbtest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9A29BA-0CD5-490F-9B6F-9E15009DC9E8}|dbTest\\dbTest.csproj|solutionrelative:dbtest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\isc_2\\OneDrive\\Escritorio\\back\\dbTest\\dbTest\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "dbTest\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\isc_2\\OneDrive\\Escritorio\\back\\dbTest\\dbTest\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "dbTest\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:24:37.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
